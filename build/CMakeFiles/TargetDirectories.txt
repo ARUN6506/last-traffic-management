@@ -1,0 +1,3 @@
+C:/Users/LENOVO/source/repos/full traffic surveillance system/build/CMakeFiles/MyAwesomeApp.dir
+C:/Users/LENOVO/source/repos/full traffic surveillance system/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/LENOVO/source/repos/full traffic surveillance system/build/CMakeFiles/ZERO_CHECK.dir
